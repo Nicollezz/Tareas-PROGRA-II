@@ -1,0 +1,15 @@
+C:\Users\andre\ExcepcionesQ220226\Excepciones\bin\Debug\net10.0\Excepciones.exe
+C:\Users\andre\ExcepcionesQ220226\Excepciones\bin\Debug\net10.0\Excepciones.deps.json
+C:\Users\andre\ExcepcionesQ220226\Excepciones\bin\Debug\net10.0\Excepciones.runtimeconfig.json
+C:\Users\andre\ExcepcionesQ220226\Excepciones\bin\Debug\net10.0\Excepciones.dll
+C:\Users\andre\ExcepcionesQ220226\Excepciones\bin\Debug\net10.0\Excepciones.pdb
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\Excepciones.AssemblyInfo.cs
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\Excepciones.sourcelink.json
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\Excepciones.dll
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\refint\Excepciones.dll
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\Excepciones.pdb
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\Excepciones.genruntimeconfig.cache
+C:\Users\andre\ExcepcionesQ220226\Excepciones\obj\Debug\net10.0\ref\Excepciones.dll
