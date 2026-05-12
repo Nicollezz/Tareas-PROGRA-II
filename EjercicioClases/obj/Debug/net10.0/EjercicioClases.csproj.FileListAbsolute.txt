@@ -1,0 +1,15 @@
+C:\Users\andre\EjercicioClases\EjercicioClases\bin\Debug\net10.0\EjercicioClases.exe
+C:\Users\andre\EjercicioClases\EjercicioClases\bin\Debug\net10.0\EjercicioClases.dll
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\EjercicioClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\EjercicioClases.AssemblyInfoInputs.cache
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\EjercicioClases.AssemblyInfo.cs
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\EjercicioClases.csproj.CoreCompileInputs.cache
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\EjercicioClases.sourcelink.json
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\EjercicioClases.dll
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\refint\EjercicioClases.dll
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\EjercicioClases.pdb
+C:\Users\andre\EjercicioClases\EjercicioClases\bin\Debug\net10.0\EjercicioClases.deps.json
+C:\Users\andre\EjercicioClases\EjercicioClases\bin\Debug\net10.0\EjercicioClases.runtimeconfig.json
+C:\Users\andre\EjercicioClases\EjercicioClases\bin\Debug\net10.0\EjercicioClases.pdb
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\EjercicioClases.genruntimeconfig.cache
+C:\Users\andre\EjercicioClases\EjercicioClases\obj\Debug\net10.0\ref\EjercicioClases.dll
