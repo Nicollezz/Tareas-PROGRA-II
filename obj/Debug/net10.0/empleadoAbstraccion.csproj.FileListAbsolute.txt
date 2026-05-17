@@ -1,0 +1,15 @@
+C:\Users\andre\empleadoAbstraccion\bin\Debug\net10.0\empleadoAbstraccion.exe
+C:\Users\andre\empleadoAbstraccion\bin\Debug\net10.0\empleadoAbstraccion.deps.json
+C:\Users\andre\empleadoAbstraccion\bin\Debug\net10.0\empleadoAbstraccion.runtimeconfig.json
+C:\Users\andre\empleadoAbstraccion\bin\Debug\net10.0\empleadoAbstraccion.dll
+C:\Users\andre\empleadoAbstraccion\bin\Debug\net10.0\empleadoAbstraccion.pdb
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\empleadoAbstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\empleadoAbstraccion.AssemblyInfoInputs.cache
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\empleadoAbstraccion.AssemblyInfo.cs
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\empleadoAbstraccion.csproj.CoreCompileInputs.cache
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\empleadoAbstraccion.sourcelink.json
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\empleadoAbstraccion.dll
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\refint\empleadoAbstraccion.dll
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\empleadoAbstraccion.pdb
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\empleadoAbstraccion.genruntimeconfig.cache
+C:\Users\andre\empleadoAbstraccion\obj\Debug\net10.0\ref\empleadoAbstraccion.dll
